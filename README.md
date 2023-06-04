@@ -8,7 +8,7 @@ Why don't you give it a try?
 
 
 
-See https://youtu.be/jc_mReB_SMc for how to install the flags file.
+See [this video](https://youtu.be/jc_mReB_SMc) for information on how to install the flags.
 
 
 
