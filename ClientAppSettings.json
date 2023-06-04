@@ -25,7 +25,7 @@
   "FFlagHandleAltEnterFullscreenManually": false,
   "DFFlagTaskSchedulerAvoidYieldInBackground": true,
   "DFFlagTaskSchedulerBlockingShutdownInClients": true,
-  "FFlagEnableQuickGameLaunch": false,
+  "FFlagEnableQuickGameLaunch": true,
   "FFlagPreloadAllFonts": true,
   "FFlagPreloadMinimalFonts": true,
   "FFlagRemoveRedundantFontPreloading": true,
