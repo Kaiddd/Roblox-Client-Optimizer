@@ -6,7 +6,7 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 
 Why don't you give it a try?
 
-We also have a [Discord server]!(https://discord.gg/robloxclientoptimizer)
+We also have a [Discord server](https://discord.gg/robloxclientoptimizer)!
 
 See [this video](https://youtu.be/jc_mReB_SMc) for information on how to install the flags.
 
