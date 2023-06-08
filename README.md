@@ -5,9 +5,9 @@ RCO automatically tweaks FFlags to optimize your Roblox client.
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
 Why don't you give it a try?
-
+## Discord
 We also have a [Discord server](https://discord.gg/robloxclientoptimizer)!
-
+## Installation
 See [this video](https://youtu.be/jc_mReB_SMc) for information on how to install the flags.
 
 
