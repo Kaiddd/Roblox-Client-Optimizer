@@ -1,6 +1,6 @@
 # Roblox-Client-Optimizer
 
-RCO automatically tweaks FFlags to optimize your Roblox client.
+RCO tweaks FFlags to optimize your Roblox client.
 
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
