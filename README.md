@@ -13,7 +13,7 @@ See [this video](https://youtu.be/jc_mReB_SMc) for information on how to install
 
 
 
-# About RCO
+## About RCO
 
 Some things RCO currently does:
 
