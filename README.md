@@ -6,6 +6,8 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 
 ## Discord
 We also have a [Discord server](https://discord.gg/robloxclientoptimizer)!
+</br>
+If you need support, ask in the #help-me channel.
 ## Installation
 You can use our installer and uninstaller files to install and uninstall the flags, but keep in mind this will not autoupdate, so keep an eye on our Discord server for update announcements so you know when to run the installer again.
 </br>
