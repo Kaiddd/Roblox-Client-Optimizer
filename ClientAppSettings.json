@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "139 Beta",
+  "FStringFlagUpdateVersion": "139 Beta - Version 2",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -21,8 +21,6 @@
   "DFIntClusterCompressionLevel": 2,
   "DFIntNetworkSchemaCompressionRatio": 18,
   "FFlagHandleAltEnterFullscreenManually": false,
-  "DFFlagTaskSchedulerAvoidYieldInBackground": true,
-  "DFFlagTaskSchedulerBlockingShutdownInClients": true,
   "FFlagEnableQuickGameLaunch": true,
   "FFlagPreloadAllFonts": true,
   "FFlagPreloadMinimalFonts": true,
