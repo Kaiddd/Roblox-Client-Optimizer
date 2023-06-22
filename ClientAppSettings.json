@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "139 Beta - Version 2",
+  "FStringFlagUpdateVersion": "139 Beta - Version 3",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -85,6 +85,7 @@
   "FFlagSimCSGV3PruneNonManifoldVertexGraphCrash2": false,
   "FFlagStringUtilFixEditDistanceUnicodeCrash": true,
   "DFFlagFriendsV2BadAccessFix": true,
+  "FFlagAnimationTrackStepFix": true,
   "DFFlagAudioSeparateHttpCachePerUniverse3": false,
   "DFLogHttpTrace": 0,
   "DFLogHttpTraceError": 0,
