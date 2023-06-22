@@ -7,7 +7,12 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 ## Discord
 We also have a [Discord server](https://discord.gg/robloxclientoptimizer)!
 ## Installation
-See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags.
+You can use our installer and uninstaller files to install and uninstall the flags, but keep in mind this will not autoupdate, so keep an eye on our Discord server for update announcements so you know when to run the installer again.
+</br>
+
+Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag/Release) by clicking on RCO-Installer.cmd or RCO-Uninstaller.cmd.
+
+See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
 ## About RCO
 Some things RCO currently does:
 - Unlocks FPS (For most people)
