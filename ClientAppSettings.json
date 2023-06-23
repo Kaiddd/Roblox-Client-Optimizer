@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "139 Beta - Version 11",
+  "FStringFlagUpdateVersion": "139 Beta - Version 12",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -79,7 +79,6 @@
   "DFIntInferredOOMUsedMemHundredthsPercent": 0,
   "DFIntPredictedOOMPercent": 0,
   "FFlagCacheHardwareInfo": true,
-  "DFFlagEnablePerformanceControlSoundCache3": true,
   "DFFlagAudioSeparateHttpCachePerUniverse3": false,
   "FFlagDataModelPatchBackgroundLoad": true,
   "FFlagLoadCoreScriptsFromPatchOnly": true,
