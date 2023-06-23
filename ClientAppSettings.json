@@ -9,8 +9,6 @@
   "FIntUITextureMaxRenderTextureSize": 1024,
   "FIntMaxCachedPatches": 2,
   "FIntTaskSchedulerAutoThreadLimit": 16,
-  "FIntTaskSchedulerAsyncTasksMinimumThreadCount": 6,
-  "FIntTaskSchedulerThreadMin": 6,
   "FIntMeshContentProviderForceCacheSize": 268435456,
   "FIntDefaultMeshCacheSizeMB": 256,
   "DFIntHttpCurlConnectionCacheSize": 134217728,
