@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "139 Beta - Version 8",
+  "FStringFlagUpdateVersion": "139 Beta - Version 9",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -85,9 +85,6 @@
   "DFFlagOnNewOverlapDifferentWorldCrash": false,
   "DFFlagWorldModelCrashFaster": false,
   "DFFlagWorldModelCrashOutsideOfDataModel": false,
-  "FFlagFixEmptyGlyphsCrash": true,
-  "FFlagFixGuiVisibilityCrash": true,
-  "FFlagFixIAdornableCollectorCrash3": true,
   "DFFlagEnablePerformanceControlSoundCache3": true,
   "DFFlagAudioSeparateHttpCachePerUniverse3": false,
   "FFlagDataModelPatchBackgroundLoad": true,
