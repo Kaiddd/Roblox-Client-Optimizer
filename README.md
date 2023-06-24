@@ -30,5 +30,5 @@ Some things RCO currently does:
 - Enables BatchAssetApi
 
 # Subscribers
-Thanks to our amazing subscribers to help keep the project alive!
+Thanks to our amazing subscribers who help keep the project alive!
 - livelytheboopmushie
