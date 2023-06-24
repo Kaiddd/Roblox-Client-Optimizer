@@ -28,3 +28,7 @@ Some things RCO currently does:
 - Enables QuickGameLaunch
 - Enables ParallelHumanoidManager
 - Enables BatchAssetApi
+
+# Subscribers
+Thanks to our amazing subscribers to help keep the project alive!
+- livelytheboopmushie
