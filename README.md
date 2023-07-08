@@ -32,3 +32,4 @@ Some things RCO currently does:
 # Subscribers
 Thanks to our amazing subscribers who help keep the project alive!
 - livelytheboopmushie
+- drelixx
