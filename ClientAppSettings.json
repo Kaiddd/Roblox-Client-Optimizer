@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "140",
+  "FStringFlagUpdateVersion": "141",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "DFFlagDynamicFastVariableReloaderTest1": false,
@@ -22,8 +22,8 @@
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
   "FIntHttpCurlMaxCachedHandlesPerHost": 16,
   "DFIntTaskSchedulerTargetFps": 500,
+  "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
-  "FFlagEnableQuickGameLaunch": true,
   "FFlagPreloadAllFonts": true,
   "FFlagPreloadMinimalFonts": true,
   "FFlagPreloadTextureItemsOption4": true,
