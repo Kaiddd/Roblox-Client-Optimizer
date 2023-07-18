@@ -13,7 +13,7 @@
   "DFIntHttpCurlMaxConnectionsPerHost": 16,
   "FIntHttpCurlMaxCachedHandlesPerHost": 16,
   "DFIntHttpCacheRetryCount": 4,  
-  "DFIntHttpBatchApi_maxReqs": 4,
+  "DFIntHttpBatchApi_maxReqs": 6,
   "DFIntHttpMaxRetries": 4,
   "DFFlagHttpCacheCleanBasedOnMemory": true,  
   "DFFlagEnableHttpCacheForceRevalidate2": false,
