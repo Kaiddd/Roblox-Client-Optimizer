@@ -2,6 +2,8 @@
 
 RCO tweaks FFlags to optimize your Roblox client.
 
+As seen in Sharkblox and Rubie's YouTube videos!
+
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 ## Discord
 We also have a [Discord server](https://discord.gg/robloxclientoptimizer)!
