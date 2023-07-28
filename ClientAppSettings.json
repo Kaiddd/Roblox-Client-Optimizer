@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "144 Beta",
+  "FStringFlagUpdateVersion": "144",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntRolloutEnrollmentExpirationMinutes": 525949,
   "FFlagExecDynInitTests": false,
