@@ -145,7 +145,7 @@
   "FFlagLinkingProtocolLogUsingRobloxTelemetry": false,
   "FFlagRenderPerformanceTelemetry": false,
   "DFIntPerformanceControlPointsHundredthPercentageSent": 0,
-  "FFlagLocServicePerformanceAnalyticsEnabled": false.
+  "FFlagLocServicePerformanceAnalyticsEnabled": false,
   "DFIntLocServicePerformanceAnalyticsHundredthsPercentage": 0,
   "FFlagNavigationAnalyticsSessionId": false,
   "DFFlagPhysicsAnalytics": false,
