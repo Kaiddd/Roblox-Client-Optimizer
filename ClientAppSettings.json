@@ -77,7 +77,7 @@
   "DFFlagTeleportServiceV2MetricsPart3": false,
   "FIntTerrainMaterialRenderUsageMetricsHundredthsPercent": 0,
   "DFFlagVoiceChatClientJoinMetrics": false,
-  "FFlagHttpCacheMetrics": false.
+  "FFlagHttpCacheMetrics": false,
   "DFIntHttpCacheCleanupMetricsHundredthsPercent": 0,
   "FIntStartupInfluxHundredthsPercentage": 0,
   "DFIntStartupTracingInfluxRollout": 0,
