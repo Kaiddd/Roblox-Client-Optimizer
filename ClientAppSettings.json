@@ -193,7 +193,6 @@
   "DFFlagSessionTrackingRecordUserClickMinRadiusTime": false,
   "DFFlagSessionTrackingRecordHasLocation": false,
   "DFFlagSessionTrackingUseGetPointList": false,
-  "DFFlagSessionTrackingFlushAtImportantCheckpoints": false,
   "DFFlagSessionTelemetryTeleport": false,
   "DFFlagSessionTelemetryLayeredClothing": false,
   "FFlagAddGameInstanceIdToSessionTracking": false,
