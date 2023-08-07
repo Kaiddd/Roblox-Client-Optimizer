@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "148",
+  "FStringFlagUpdateVersion": "149",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
@@ -10,7 +10,7 @@
   "FIntEmotesAnimationsPerPlayerCacheSize": 16777216,
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
-  "DFIntTaskSchedulerTargetFps": 240,
+  "DFIntTaskSchedulerTargetFps": 500,
   "FFlagEnableQuickGameLaunch": false,
   "FFlagHandleAltEnterFullscreenManually": false,
   "FFlagDisableNewIGMinDUA": true,
