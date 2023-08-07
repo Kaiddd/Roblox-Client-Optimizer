@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "148 Rewrite - Draft 1",
+  "FStringFlagUpdateVersion": "148 Rewrite - Draft 2",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
@@ -51,6 +51,8 @@
   "DFLogHttpTrace": 0,
   "DFLogHttpTraceError": 0,
   "DFLogHttpTraceLight": 0,
+  "FFlagWindowsLaunchAnalytics": false,
+  "FFlagLuaAppLogoutTelemetry": false,
   "FFlagHttpCacheMetrics": false,
   "FIntStartupInfluxHundredthsPercentage": 0,
   "DFIntStartupTracingInfluxRollout": 0,
