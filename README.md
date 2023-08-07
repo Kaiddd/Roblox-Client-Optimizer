@@ -1,6 +1,6 @@
 # Roblox-Client-Optimizer
 
-Roblox Client Optimizer is managed by [OptiFury](https://optifury.com/).
+Roblox Client Optimizer is now managed by [OptiFury](https://optifury.com/).
 
 RCO tweaks FFlags to optimize your Roblox client.
 
