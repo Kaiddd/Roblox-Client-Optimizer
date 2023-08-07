@@ -129,7 +129,7 @@
   "DFStringLmsRecipeEndpoint": "/opt-out",
   "DFStringLmsReportEndpoint": "/opt-out",
   "DFIntLmsClientMaxTargets": 0,
-  "FIntLmsClientRollout2": 0,i
+  "FIntLmsClientRollout2": 0,
   "DFStringCrashUploadToBacktraceMacPlayerToken": "opt-out",
   "DFStringCrashUploadToBacktraceWindowsPlayerToken": "opt-out",
   "FStringCoreScriptBacktraceErrorUploadToken": "opt-out",
