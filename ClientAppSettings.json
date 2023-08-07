@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "148 Rewrite - Draft 2",
+  "FStringFlagUpdateVersion": "148",
   "DFIntSecondsBetweenDynamicVariableReloading": 31557600,
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
