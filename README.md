@@ -10,7 +10,7 @@ As seen in Sharkblox and Rubie's YouTube videos!
 
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 ## Discord
-We also have a [Discord server](https://discord.gg/optifury)!
+We also have a [Discord server](https://optifury.com/discord)!
 
 If you need support, ask in the #help-me channel.
 ## Installation
