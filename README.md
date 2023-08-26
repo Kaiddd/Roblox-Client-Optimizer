@@ -1,7 +1,3 @@
-# IMPORTANT
-Updates will be heavily delayed, due to the maintainer currently suffering with their mental health.
-
-Please check back later for further updates.
 # Roblox-Client-Optimizer
 
 RCO tweaks FFlags to optimize your Roblox client.
