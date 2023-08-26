@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "UWP Edition",
+  "FStringUWPFlagUpdateVersion": "2",
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
   "FIntMeshContentProviderForceCacheSize": 268435456,
@@ -25,8 +25,6 @@
   "DFFlagQueueDataPingFromSendData": true,
   "FFlagDontCreatePingJob": true,
   "FFlagFastGPULightCulling3": true,
-  "FFlagGpuGeometryManager3": true,
-  "FFlagRenderGpuTextureCompressor": true,
   "DFFlagPredictedOOM": false,
   "DFIntPredictedOOMPercent": 0,
   "FFlagEnableCameraByDefault": false,
