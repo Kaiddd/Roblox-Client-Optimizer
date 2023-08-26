@@ -19,12 +19,19 @@ See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on
 
 Do you want to use the old autoupdating system? Check out the RCO2 section below.
 
-# RCO2
+## RCO2
 RCO2 was our old flagship software which allowed you to automatically receive flag updates.
 
 We do not officially maintain RCO2 anymore, however you can find verified, safe, and vetted forks below:
 
 1. https://github.com/HarryBlueJay/RCO2-Patch-Kit/releases
+
+## RCO3
+RCO3 was never finished and was never released to the public, however, you can find safe, and vetted forks below:
+
+1. https://github.com/HarryBlueJay/RCO3
+
+Use rhis with care, as it is only intended for use by advanced users who maintain high levels of competency in programming, due to the lack of completion.
 
 ## About RCO
 Some things RCO currently does:
