@@ -9,12 +9,19 @@ The flags we edit are contained in our [GitHub Repository](https://github.com/L8
 We also have a [Discord server](https://optifury.com/discord)!
 
 If you need support, ask in the #help-me channel.
+
 ## Installation
 You can use our installer and uninstaller files to install and uninstall the flags, but keep in mind this will not autoupdate, so keep an eye on our Discord server for update announcements so you know when to run the installer again.
 
 Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag/Release) by clicking on RCO-Installer.cmd or RCO-Uninstaller.cmd.
 
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
+
+# Where is RCO 2?
+We do not officially maintain RCO2 anymore, however you can find verified, safe, and vetted forks below:
+
+1. https://github.com/HarryBlueJay/RCO2-Patch-Kit/releases
+
 ## About RCO
 Some things RCO currently does:
 - Unlocks FPS
@@ -27,15 +34,14 @@ Some things RCO currently does:
 - Disables AbuseReportScreenshot
 - Enables font and texture item preloading
 - Enables FULL graphics quality options (21 instead of 10!)
-- Enables QuickGameLaunch
-- Enables ParallelHumanoidManager
+- Enables QuickGameLaunch (RCO2 only)
 - Enables BatchAssetApi
 
-# Subscribers
+## Subscribers
 Thanks to our amazing subscribers who help keep the project alive!
 - @livelytheboopmushie
 - @drelixx
 - @riley.com
 
-# Disclaimer
+## Disclaimer
 Roblox Client Optimizer is now managed by [OptiFury](https://optifury.com/).
