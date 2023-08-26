@@ -17,7 +17,11 @@ Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag
 
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
 
-# Where is RCO 2?
+Do you want to use the old autoupdating system? Check out the RCO2 section below.
+
+# RCO2
+RCO2 was our old flagship software which allowed you to automatically receive flag updates.
+
 We do not officially maintain RCO2 anymore, however you can find verified, safe, and vetted forks below:
 
 1. https://github.com/HarryBlueJay/RCO2-Patch-Kit/releases
