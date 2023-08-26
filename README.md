@@ -31,7 +31,7 @@ RCO3 was never finished and was never released to the public, however, you can f
 
 1. https://github.com/HarryBlueJay/RCO3
 
-Use rhis with care, as it is only intended for use by advanced users who maintain high levels of competency in programming, due to the lack of completion.
+Use this with care, as it is only intended for use by advanced users who maintain high levels of competency in programming, due to the lack of completion.
 
 ## About RCO
 Some things RCO currently does:
