@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "150",
+  "FStringFlagUpdateVersion": "151",
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
   "FIntMeshContentProviderForceCacheSize": 268435456,
@@ -26,6 +26,7 @@
   "FFlagFastGPULightCulling3": true,
   "DFFlagPredictedOOM": false,
   "DFIntPredictedOOMPercent": 0,
+  "FFlagGlobalWindRendering": false,
   "FFlagEnableCameraByDefault": false,
   "DFFlagVideoCaptureServiceEnabled": false,
   "FFlagAvatarChatSettingsEnabled2": false,
