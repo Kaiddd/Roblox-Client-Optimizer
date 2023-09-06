@@ -51,9 +51,15 @@ Use this with care, as it is only intended for use by advanced users who maintai
 
 ## Subscribers
 Thanks to our amazing subscribers who help keep the project alive!
-- @livelytheboopmushie
-- @drelixx
-- @riley.com
+- LivelyTheBoopMushie
+- Drelixx
+- Riley
+- Cyan
 
-## Disclaimer
-Roblox Client Optimizer is now managed by [OptiFury](https://optifury.com/).
+## Acquisition Disclaimer
+Roblox Client Optimizer has been acquired by, and is now managed by [OptiFury](https://optifury.com/).
+
+## Trademarks
+"RCO" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
+
+"OptiFury" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
