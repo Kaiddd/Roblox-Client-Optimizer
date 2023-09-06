@@ -18,7 +18,7 @@ Some things RCO™ currently does:
 - Disables AbuseReportScreenshot
 - Enables font and texture item preloading
 - Enables FULL graphics quality options (21 instead of 10!)
-- Enables QuickGameLaunch (RCO2 only)
+- Enables QuickGameLaunch (RCO™ 2 only)
 - Enables BatchAssetApi
 
 ## Discord
@@ -33,7 +33,7 @@ Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag
 
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
 
-Do you want to use the old autoupdating system? Check out the RCO2 section below.
+Do you want to use the old autoupdating system? Check out the RCO™ 2 section below.
 
 ## RCO™ 2
 RCO™ 2 was our old flagship software which allowed you to automatically receive flag updates.
