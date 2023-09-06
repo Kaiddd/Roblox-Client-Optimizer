@@ -66,7 +66,7 @@ The Roblox Client Optimizer project has been acquired by, and is now managed by 
 
 ## Copyright Notice
 [OptiFury](https://optifury.com/) reserves the rights to take action against any reuploads of our past and present software in cases where:
-1. The upload claims to be official, endorsed by, or associated with us, our employees or contractors 
+1. The upload claims to be official, the original source, endorsed by, or associated with us, our employees or contractors 
 2. The [license](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/LICENSE) terms are not adhered to
 3. The upload contains malicious content
 4. The upload contains trademark infringement
