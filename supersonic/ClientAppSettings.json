@@ -1,5 +1,5 @@
 {
-  "FStringFlagUpdateVersion": "Supersonic 2",
+  "FStringSupersonicFlagUpdateVersion": "2",
   "FIntMeshContentProviderForceCacheSize": 268435456,
   "FIntDefaultMeshCacheSizeMB": 256,
   "FIntRakNetDatagramMessageIdArrayLength": 2048,
