@@ -35,6 +35,9 @@ See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on
 
 Do you want to use the old autoupdating system? Check out the RCO™ 2 section below.
 
+## RCO™ Supersonic
+RCO™ Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
+
 ## RCO™ 2
 RCO™ 2 was our old flagship software which allowed you to automatically receive flag updates.
 
