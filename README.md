@@ -33,7 +33,11 @@ Download them [here](https://github.com/L8X/Roblox-Client-Optimizer/releases/tag
 
 See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on how to install the flags manually.
 
-Do you want to use the old autoupdating system? Check out the RCO™ 2 section below.
+## Alternative Installation
+
+Need even more FPS? Check our the RCO™ Supersonic section below.
+
+Do you want to use the old autoupdating system? Check out the RCO™ 2 and RCO™ 3 sections below.
 
 ## RCO™ Supersonic
 RCO™ Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
