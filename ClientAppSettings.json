@@ -1,10 +1,20 @@
 {
-  "FStringFlagUpdateVersion": "154",
+  "FStringFlagUpdateVersion": "155",
   "FIntTerrainOTAMaxTextureSize": 1024,
   "FIntUITextureMaxRenderTextureSize": 1024,
   "FIntMeshContentProviderForceCacheSize": 268435456,
   "FIntDefaultMeshCacheSizeMB": 256,
-  "DFIntConnectionMTUSize": 1380,
+  "FIntRakNetDatagramMessageIdArrayLength": 2048,
+  "FIntRakNetResendBufferArrayLength": 2048,
+  "DFIntRakNetMtuValue1InBytes": 1420,
+  "DFIntRakNetMtuValue2InBytes": 1360,
+  "DFIntRakNetMtuValue3InBytes": 1280,
+  "DFIntRakNetNakResendDelayMs": 10,
+  "DFIntRakNetNakResendDelayMsMax": 100,
+  "DFIntRakNetNakResendDelayRttPercent": 50,
+  "DFIntRakNetMinAckGrowthPercent": 65,
+  "DFIntRakNetResendRttMultiple": 12,
+  "DFFlagRakNetUseSlidingWindow4": true,
   "DFIntHttpCurlConnectionCacheSize": 134217728,
   "DFFlagHttpCacheCleanBasedOnMemory": true,
   "FFlagUpdateUICachesWithQuadTree3": true,
@@ -138,4 +148,3 @@
   "DFStringAnalyticsNS1ApplicationId": "opt-out",
   "DFStringAnalyticsNS1BeaconConfig": "https://opt-out.roblox.com"
 }
-
