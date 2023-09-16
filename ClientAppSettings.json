@@ -52,7 +52,7 @@
   "FIntFRMMinGrassDistance": 0,
   "FIntFRMMaxGrassDistance": 0,
   "FIntRenderGrassDetailStrands": 0,
-  "FintRenderGrassHeightScaler": 0,
+  "FIntRenderGrassHeightScaler": 0,
   "FFlagGlobalWindRendering": false,
   "FFlagEnableCameraByDefault": false,
   "DFFlagVideoCaptureServiceEnabled": false,
