@@ -17,8 +17,6 @@
   "FIntEmotesAnimationsPerPlayerCacheSize": 16777216,
   "DFIntUserIdPlayerNameCacheSize": 33554432,
   "DFIntUserIdPlayerNameLifetimeSeconds": 86400,
-  "FIntTerrainOTAMaxTextureSize": 512,
-  "FIntUITextureMaxRenderTextureSize": 512,
   "FFlagDebugGraphicsPreferD3D11FL10": true,
   "DFFlagDebugRenderForceTechnologyVoxel": true,
   "DFFlagDisableDPIScale": true,
