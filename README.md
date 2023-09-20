@@ -1,13 +1,25 @@
+# Archived Project
+
+The maintainer has decided their time working on this project has come to an end.
+
+## A short comment from the maintainer:
+
+"Thank you for everyone who has supported RCO, it's been an amazing time, with ups and downs, but I cannot continue to maintain the project.
+
+I hope RCO's legacy will inspire others to learn more about the inner workings of the Roblox client, just as I once did.
+
+Fly high, people!"
+
 # Roblox Client Optimizer
 
-RCO™ tweaks FFlags to optimize your Roblox client.
+RCO tweaks FFlags to optimize your Roblox client.
 
 As seen in Sharkblox and Rubie's YouTube videos!
 
 The flags we edit are contained in our [GitHub Repository](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/ClientAppSettings.json).
 
-## About RCO™
-Some things RCO™ currently does:
+## About RCO
+Some things RCO does:
 - Unlocks FPS
 - Optimizes Caching
 - Optimizes Graphics
@@ -30,31 +42,7 @@ See [this video](https://www.youtube.com/watch?v=aY7US2Zl47M) for information on
 
 ## Alternative Installation
 
-Need even more FPS? Check our the RCO™ Supersonic section below.
+Need even more FPS? Check our the RCO Supersonic section below.
 
-Do you want to use the old autoupdating system? Check out the RCO™ 2 and RCO™ 3 sections below.
-
-## RCO™ Supersonic
-RCO™ Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
-
-## Subscribers
-Thanks to our amazing subscribers who help keep the project alive!
-- LivelyTheBoopMushie
-- Drelixx
-- Riley
-- Cyan
-
-## Acquisition Notice
-The Roblox Client Optimizer project has been acquired by, and is now managed by [OptiFury](https://optifury.com/).
-
-## Trademark Notice
-"RCO" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
-
-"OptiFury" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
-
-[OptiFury](https://optifury.com/) reserves the rights to take action against any reuploads of our past and present software in cases where:
-1. The upload claims to be official, the original source, endorsed by, or associated with us, our employees or contractors 
-2. The [license](https://github.com/L8X/Roblox-Client-Optimizer/blob/main/LICENSE) terms are not adhered to
-3. The upload contains malicious content
-4. The upload contains trademark infringement
-5. The upload contains misinformation, slander, libel, or defamatory remarks against us, our employees, or contractors
+## RCO Supersonic
+RCO Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
