@@ -21,11 +21,6 @@ Some things RCO™ currently does:
 - Enables QuickGameLaunch (RCO™ 2 only)
 - Enables BatchAssetApi
 
-## Discord
-We have a [Discord server](https://optifury.com/discord)!
-
-If you need support, ask in the #help-me channel.
-
 ## Installation
 You can use our installer and uninstaller files to install and uninstall the flags, but keep in mind this will not autoupdate, so keep an eye on our Discord server for update announcements so you know when to run the installer again.
 
@@ -42,20 +37,6 @@ Do you want to use the old autoupdating system? Check out the RCO™ 2 and RCO�
 ## RCO™ Supersonic
 RCO™ Supersonic is our FPS and latency focused configuration file, you can get it [here](https://roblox-client-optimizer.simulhost.com/supersonic/ClientAppSettings.json).
 
-## RCO™ 2
-RCO™ 2 was our old flagship software which allowed you to automatically receive flag updates.
-
-We do not officially maintain RCO™ 2 anymore, however you can find verified, safe, and vetted forks below:
-
-1. https://github.com/HarryBlueJay/RCO2-Patch-Kit/releases
-
-## RCO™ 3
-RCO™ 3 was never finished and was never released to the public, however, you can find safe, and vetted forks below:
-
-1. https://github.com/HarryBlueJay/RCO3
-
-Use this with care, as it is only intended for use by advanced users who maintain high levels of competency in programming, due to the lack of completion.
-
 ## Subscribers
 Thanks to our amazing subscribers who help keep the project alive!
 - LivelyTheBoopMushie
@@ -70,9 +51,6 @@ The Roblox Client Optimizer project has been acquired by, and is now managed by 
 "RCO" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
 
 "OptiFury" is an unregistered trademark of [OptiFury](https://optifury.com/), unauthorized usage will result in the relevant legal action being taken.
-
-## Copyright Notice
-This respository may or may not contain the source code, however all RCO™ software was held here at one point in time, the original source of any RCO™ source code or software anywhere outside of this repository is [this repository](https://github.com/L8X/Roblox-Client-Optimizer).
 
 [OptiFury](https://optifury.com/) reserves the rights to take action against any reuploads of our past and present software in cases where:
 1. The upload claims to be official, the original source, endorsed by, or associated with us, our employees or contractors 
